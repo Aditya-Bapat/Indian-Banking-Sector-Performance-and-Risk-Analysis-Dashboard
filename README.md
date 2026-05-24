@@ -96,9 +96,6 @@ The dashboard includes:
 ## Learning Outcomes
 Through this project, I learned:
 - Data cleaning and transformation
-- DAX calculations
 - Financial KPI analysis
 - Dashboard designing principles
 - Interactive Power BI reporting
-
----
