@@ -1,101 +1,81 @@
-# Indian Banking Analytics Dashboard | Power BI
+**Indian Banking Sector Performance & Risk Analysis Dashboard**
 
-## Overview
-This project is an interactive Power BI dashboard built using Indian banking sector data.  
-The dashboard provides insights into deposits, investments, advances, profitability, assets, and NPA analysis across Public, Private, and Small Finance Banks.
+**Overview**
+This project is an interactive Power BI dashboard built using financial data from the Indian banking sector for the years 2023–2025. The dashboard analyzes the performance of 47 Indian public, private, and small finance banks using key financial and risk indicators.
+The project focuses on banking profitability, NPA analysis, asset performance, deposits & advances analysis, and comparative banking insights using interactive Power BI visualizations.
 
-The project focuses on financial analysis, KPI tracking, and comparative banking insights using Power BI visualizations.
+**Public & Private Bank Profitability Analysis**
+**Analyzes profitability performance across major banks:**
+**KPI**
+Net Profit
+Operating Profit
+Interest Income
+Other Income
+Gross & Net NPA
+Provisions & Contingencies
+**Visuals:**
+Best Performing Public Banks by Net Profit
+Best Performing Private Banks by Net Profit
 
----
+**Banking Risk & NPA Analysis Dashboard**
+**Focuses on banking risk and loan quality analysis:**
+**KPI's**
+Gross NPA
+Net NPA
+Gross NPA %
+Net NPA %
+PCR Ratio
+Advances
+**Visuals:**
+Public Banks: Gross vs Net NPA Analysis
+Private Banks: Gross vs Net NPA Analysis
 
-## Dashboard Pages
+**Bank Asset Performance Dashboard**
+**Analyzes asset distribution and asset efficiency:**
+**KPI**
+Total Assets
+Return on Assets (ROA)
+Asset Growth %
+Interest Income
+Net Profit
+**Visuals:**
+Asset Distribution Among Public Banks
+Asset Distribution Among Private Banks
 
-### 1. Deposits Overview
-- Top 10 Banks by Deposits
-- Bottom 10 Banks by Deposits
-- Deposits, Investments, Advances, Assets KPIs
-- Bank Type Filtering
+**Deposits & Advances Analysis Dashboard**
+**Analyzes the relationship between deposits and lending operations:**
+**KPI**
+Deposits
+Advances
+Credit Deposit Ratio
+Assets
+Interest Income
+Gross NPA %
+**Visuals:**
+Public Banks: Deposits vs Advances
+Private Banks: Deposits vs Advances
 
-### 2. Bank Comparisons & NPA Analysis
-- Gross NPA vs Net NPA
-- Assets Distribution by Bank Type
-- Gross & Net NPA Analysis
-- Public vs Private Bank Comparison
+**Comparative Banking Performance Analysis**
+**Provides comparative analysis of banks:**
+**KPI**
+Net Profit
+Gross NPA %
+ROA
+Deposits
+Advances
+**Visuals:**
+Banking Performance Comparison Matrix
+Top 10 Banks by Return on Assets (ROA)
 
-### 3. Profitability & Income Analysis
-- Net Profit by Banks
-- Operating Profit vs Net Profit
-- Interest Income vs Other Income
-- Profitability Analysis by Bank Type
-
-### 4. Investments & Advances Analysis
-- Investments Distribution (2023–2025)
-- Advances Distribution (2023–2025)
-- Investments by Bank Type
-- Advances by Bank Type
-
----
-
-## Tools & Technologies Used
-- Power BI
-- DAX
-- Microsoft Excel
-- Data Visualization
-- Financial KPI Analysis
-
----
-
-## Key KPIs
-- Total Deposits
-- Total Investments
-- Total Advances
-- Total Assets
-- Gross NPA
-- Net NPA
-- Operating Profit
-- Net Profit
-- Interest Income
-
----
-
-## Features
-- Interactive dashboard
-- Dynamic filtering using slicers
-- Comparative analysis between bank types
-- Financial performance insights
-- Beginner-friendly dashboard design
-
----
-
-## Dataset
-The dataset contains banking financial data including:
-- Deposits
-- Advances
-- Investments
-- Assets
-- Gross NPA
-- Net NPA
-- Profit Metrics
-- Interest Income
-- Other Income
-
-for the years 2023–2025.
-
----
-
-## Dashboard Preview
-The dashboard includes:
-- KPI Cards
-- Bar Charts
-- Pie Charts
-- Donut Charts
-- Comparative Analysis Visuals
-
----
-
-## Learning Outcomes
-Through this project, I learned:
-- Data cleaning and transformation
-- Financial KPI analysis
-- Dashboard designing principles
-- Interactive Power BI reporting
+**Banking Structure & Contribution Analysis**
+**Analyzes banking structure and contribution patterns:**
+**KPI**
+Assets
+Investments
+Deposits
+Net Profit
+Investment Ratio
+ROA
+**Visuals:**
+Asset Distribution Across Banks
+Net Profit Contribution by Banks
